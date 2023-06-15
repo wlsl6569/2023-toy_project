@@ -18,4 +18,6 @@
 
 * Mask_Detection 프로젝트는 마스크를 착용한 사람과 착용하지 않은 사람을 감지하는 기능을 제공합니다. 이 프로젝트는 컴퓨터 비전 기술을 사용하여 사람 얼굴을 식별하고, 얼굴 영역에서 마스크를 착용 여부를 식별합니다. 이를 통해 사용자는 공공장소나 사회적 상황에서 마스크 착용 여부를 자동으로 확인할 수 있습니다.
 
-* The Mask_Detection project provides a feature to detect whether a person is wearing a mask or not. This project utilizes computer vision technology to identify human faces and determine if a mask is present within the facial region. This enables users to automatically check mask compliance in public places or social settings. 
+* The Mask_Detection project provides a feature to detect whether a person is wearing a mask or not. This project utilizes computer vision technology to identify human faces and determine if a mask is present within the facial region. This enables users to automatically check mask compliance in public places or social settings.
+
+  -------
