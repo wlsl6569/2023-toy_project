@@ -1,4 +1,5 @@
 # toy_project
+---
 
 ## 01. Gym_Tracker
 
@@ -6,6 +7,7 @@
 
 * The Gym_Tracker project is a workout management tool that focuses on tracking the count of repetitive exercises, specifically designed for students. This app uses a camera to detect the student's posture in real-time and analyzes their movements to calculate the accurate number of repetitions performed. This helps students maintain an accurate count while exercising and allows them to monitor their progress in real-time.
 
+😀you can try it😀
 
 ## 02. Cheese_Classification
 
@@ -13,6 +15,7 @@
 
 * The Cheese_Classification project offers a feature that classifies four types of cheese: blue cheese, Emmental cheese, Camembert cheese, and cheddar cheese. This project utilizes image classification technology to analyze the provided cheese photo and identify the corresponding cheese type. With this capability, users can automatically identify and distinguish cheese with a simple photo. 
 
+🔥still working on it🔥
 
 ## 03. Mask_Detection  
 
@@ -20,4 +23,5 @@
 
 * The Mask_Detection project provides a feature to detect whether a person is wearing a mask or not. This project utilizes computer vision technology to identify human faces and determine if a mask is present within the facial region. This enables users to automatically check mask compliance in public places or social settings.
 
-  -------
+🔥still working on it🔥
+
