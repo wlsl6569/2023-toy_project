@@ -25,3 +25,6 @@
 
 🔥still working on it🔥
 
+## 04. Plant Disease Detection
+
+💭still thinking about it💭
