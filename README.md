@@ -7,6 +7,9 @@
 
 * The Gym_Tracker project is a workout management tool that focuses on tracking the count of repetitive exercises, specifically designed for students. This app uses a camera to detect the student's posture in real-time and analyzes their movements to calculate the accurate number of repetitions performed. This helps students maintain an accurate count while exercising and allows them to monitor their progress in real-time.
 
+*  reference project - Nicholas Renotte's AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project </br>
+[youtube tutorial](https://www.youtube.com/watch?v=06TE_U21FK4)
+
 😀you can try it😀
 
 ## 02. Cheese_Classification
@@ -31,7 +34,7 @@
   
 * Plant Disease Detection project is a project that utilizes computer vision and machine learning techniques to detect and diagnose plant diseases. The project employs deep learning algorithms to analyze images of plants and differentiate between diseased plants and healthy ones. By doing so, it aims to enhance plant productivity and enable early detection and treatment of diseases. This project is based on the "Cassava Leaf Disease Detection - Image Classification" project from Hackers Realm.
 
-- reference project 
+* reference project 
 </br> [youtube tutorial](https://www.youtube.com/watch?v=R7fKjr4gtSc&lc=Ugy4HT1sEQGNMhk4V814AaABAg.9rB43K4ttzn9rSafRMFb5E)
 </br> [git hub repository](https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification)
 
