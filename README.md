@@ -36,6 +36,4 @@
 </br> [git hub repository](https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification)
 
 
-
-
-🔥still working on it🔥
+😀you can try it😀
