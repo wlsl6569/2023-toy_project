@@ -31,8 +31,8 @@
   
 * Plant Disease Detection project is a project that utilizes computer vision and machine learning techniques to detect and diagnose plant diseases. The project employs deep learning algorithms to analyze images of plants and differentiate between diseased plants and healthy ones. By doing so, it aims to enhance plant productivity and enable early detection and treatment of diseases. This project is based on the "Cassava Leaf Disease Detection - Image Classification" project from Hackers Realm.
   
-  youtube : https://www.youtube.com/watch?v=R7fKjr4gtSc&lc=Ugy4HT1sEQGNMhk4V814AaABAg.9rB43K4ttzn9rSafRMFb5E
-  git hub : https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification
+ youtube : https://www.youtube.com/watch?v=R7fKjr4gtSc&lc=Ugy4HT1sEQGNMhk4V814AaABAg.9rB43K4ttzn9rSafRMFb5E </br>
+ git hub : https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification </br> 
   ![image](https://github.com/wlsl6569/toy_project/assets/71010429/876ca705-5cab-4f55-bf71-4bd35f17b2e9)
 
 
