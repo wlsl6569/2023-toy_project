@@ -1,2 +1,25 @@
-# pose-estimation-prj
-pose estimation based exercise count program
+
+### introduction
+
+* pose-estimation-prj
+
+-----------
+
+### problem
+
+
+-------------
+
+### 선행 프로젝트
+
+
+----------
+
+### 연구 방법
+1. 데이터 수집
+2. 분석 기법
+3. 알고리즘
+4. 모델
+
+---------------
+### 결과
