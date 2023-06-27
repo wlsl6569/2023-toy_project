@@ -19,8 +19,8 @@
 -------------
 
 ### 선행 프로젝트
- *본 프로젝트의 레퍼런스는 Hackers Realm의 Cassava Leaf Disease Detection - Image Classification 프로젝트를 기반으로 합니다.
- *This project is based on the "Cassava Leaf Disease Detection - Image Classification" project from Hackers Realm.
+ * 본 프로젝트의 레퍼런스는 Hackers Realm의 Cassava Leaf Disease Detection - Image Classification 프로젝트를 기반으로 합니다.
+ * This project is based on the "Cassava Leaf Disease Detection - Image Classification" project from Hackers Realm.
 - reference project 
 </br> [youtube tutorial](https://www.youtube.com/watch?v=R7fKjr4gtSc&lc=Ugy4HT1sEQGNMhk4V814AaABAg.9rB43K4ttzn9rSafRMFb5E)
 </br> [git hub repository](https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification)
