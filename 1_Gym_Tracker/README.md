@@ -12,7 +12,7 @@
 -------------
 
 ### 선행 프로젝트
-* reference project - Nicholas Renotte's AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project
+* reference project - Nicholas Renotte's AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project </br>
 [youtube tutorial](https://www.youtube.com/watch?v=06TE_U21FK4)
 
 
