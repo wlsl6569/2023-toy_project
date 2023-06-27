@@ -15,20 +15,26 @@
 * reference project - Nicholas Renotte's AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project </br>
 [youtube tutorial](https://www.youtube.com/watch?v=06TE_U21FK4)
 
-Mediapipe와 OpenCV를 사용하여 웹캠 비디오에서 포즈 감지와 관절 추적을 수행
+### 작동 원리
+- Mediapipe와 OpenCV를 사용하여 웹캠 비디오에서 포즈 감지와 관절 추적을 수행
 
 1. 웹캠 비디오 캡처
+   
 2. 포즈 감지 및 시각화
+   
 3. 관절 추적
+
 4. 특정 랜드마크 선택
+
 5. 각도 계산
+
 6. 특정 각도 검출
 
 
 ----------
 
 ### 연구 방법
-1. 데이터 수집
+1. 데이터 
 2. 분석 기법
 3. 알고리즘
 4. 모델
