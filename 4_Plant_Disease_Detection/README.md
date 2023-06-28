@@ -25,9 +25,11 @@
 </br> [youtube tutorial](https://www.youtube.com/watch?v=R7fKjr4gtSc&lc=Ugy4HT1sEQGNMhk4V814AaABAg.9rB43K4ttzn9rSafRMFb5E)
 </br> [git hub repository](https://github.com/aswintechguy/Deep-Learning-Projects/tree/main/Cassava%20Leaf%20Disease%20Detection%20-%20Pytorch%20Image%20Classification)
 
+
 ----------
 
 ### 세부 진행사항
+* [여기](https://github.com/wlsl6569/toy_project/tree/main/4_Plant_Disease_Detection/basic_skill)에서 주요 기능 확인 가능
 1. 데이터 수집
 - 원하는 식물 이미지 크롤링   
 - 이미지 파일을 가벼운 tfRecord 파일로 변환하기 
