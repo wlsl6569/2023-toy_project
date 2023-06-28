@@ -10,7 +10,7 @@
 * 이 프로젝트를 통해 포즈 감지와 관절 추적을 구현하는 방법을 학습하고, 이를 활용하여 자세나 움직임을 분석하는 기능을 개발하는 방법을 알아보았습니다.</br>
 [youtube tutorial](https://www.youtube.com/watch?v=06TE_U21FK4)
 
-### 주요 기능 
+### 주요 기능 (basic principle)
 - Mediapipe와 OpenCV를 사용하여 웹캠 비디오에서 포즈 감지와 관절 추적을 수행
 
     1. 웹캠 비디오 캡처
