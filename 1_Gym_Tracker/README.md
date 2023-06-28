@@ -5,12 +5,13 @@
 -------------
 
 ## 선행 프로젝트
-* toy_project/1_Gym_Tracker/0_pose_estimation_reference에서 확인 가능
+* [여기](https://github.com/wlsl6569/toy_project/tree/main/1_Gym_Tracker/0_pose_estimation_reference)에서 확인 가능
 * Nicholas Renotte의 AI Gym Tracker Project를 선행 프로젝트로 진행하였습니다. 이 프로젝트에서는 팔의 특정 각도를 계산하는 함수를 만들어 팔의 각도가 임계치를 넘으면 카운트 넘버가 올라가며 사용자의 인터페이스에 표시됩니다.
 * 이 프로젝트를 통해 포즈 감지와 관절 추적을 구현하는 방법을 학습하고, 이를 활용하여 자세나 움직임을 분석하는 기능을 개발하는 방법을 알아보았습니다.</br>
 [youtube tutorial](https://www.youtube.com/watch?v=06TE_U21FK4)
 
-### 주요 기능 (basic principle)
+### 주요 기능
+- [여기](https://github.com/wlsl6569/toy_project/tree/main/1_Gym_Tracker/basic_principle)서 확인 가능
 - Mediapipe와 OpenCV를 사용하여 웹캠 비디오에서 포즈 감지와 관절 추적을 수행
 
     1. 웹캠 비디오 캡처
@@ -24,7 +25,7 @@
 -----------
 
 ## 도전 과제
-* toy_project/1_Gym_Tracker/1_squatting_estimation에서 확인 가능
+* [여기](https://github.com/wlsl6569/toy_project/tree/main/1_Gym_Tracker/1_squatting_estimation)에서 확인 가능
 
 1. 스쿼트 포즈를 감지하는 Gym Tracker 만들기
 2. 포즈 감지 성능 향상
