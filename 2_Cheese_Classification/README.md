@@ -10,3 +10,9 @@ Let's categorize four types: Camembert cheese, Blue cheese, Emmental cheese, and
 * image resizing
 ##### image data   
 이미지 파일은 치즈 종류별 44가지씩만 샘플로 업로드 되어있습니다.
+
+## 2.model training
+##### report
+* image data preparing
+* CustomDataset class
+* model training
