@@ -18,7 +18,7 @@
 
 * The Cheese_Classification project offers a feature that classifies four types of cheese: blue cheese, Emmental cheese, Camembert cheese, and cheddar cheese. This project utilizes image classification technology to analyze the provided cheese photo and identify the corresponding cheese type. With this capability, users can automatically identify and distinguish cheese with a simple photo. 
 
-🔥still working on it🔥
+😀you can try it😀
 
 ## 03. Mask_Detection  
 
