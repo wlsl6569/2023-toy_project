@@ -41,4 +41,3 @@
 
 😀you can try it😀
 
-## 05. MNIST Classifier 
