@@ -44,3 +44,6 @@
 
 ## 05. Virtual Fitting
 
+* TryOnDiffusion: A Tale of Two UNets 전처리 과정
+* 인물과 옷 이미지에서 파싱 맵과 포즈 키포인트를 획득하고 복잡한 옷 및 포즈 키포인트을 정확하게 추출하는 전처리 과정 방법을 논문 토대로 정리
+
